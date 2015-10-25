@@ -1,0 +1,14 @@
+.intro-header h1{
+    font-size: 150px;
+}
+
+.navbar-default .navbar-brand{
+    color: #27ae60;
+}
+
+.navbar-default .navbar-text {
+    color: #ecf0f1;
+}
+.col-lg-6{
+    color: #ecf0f1;
+}
